@@ -1,0 +1,12 @@
+﻿.venv/
+chroma_db/
+.ipynb_checkpoints/
+.idea/
+backup/
+__pycache__/
+*.pyc
+.env
+*.log
+CACHEDIR.TAG
+*.pkl
+Archive/
