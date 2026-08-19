@@ -4,8 +4,7 @@ A book recommendation app that finds books by *meaning*, not keywords, then lets
 
 Built as an end-to-end NLP pipeline: from raw metadata, through embedding generation, category classification, and emotion scoring, to an interactive Gradio dashboard.
 
-![Dashboard screenshot placeholder](docs/screenshot.png)
-<!-- Add a screenshot or GIF of the dashboard here -->
+![Dashboard demo](docs/demo.gif)
 
 ## How it works
 
